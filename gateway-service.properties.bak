@@ -1,0 +1,5 @@
+#ribbon.eureka.enabled=false
+server.port=8082
+#management.security.enabled=false
+auth.url=http://172.168.4.43:8099/role/auth
+eureka.client.serviceUrl.defaultZone=http://172.168.4.43:9998/eureka/
